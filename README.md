@@ -25,7 +25,7 @@ The following code can help you to push your exercises:
 git init
 git add .
 git commit -mm "first commit"
-git remote add origin https://github.com/DiscreteMathematicsT16-17/<your repository name>
+git remote add origin https://github.com/DiscreteMathematicsT17-18/<your repository name>
 git push -u origin master
 ```
 
